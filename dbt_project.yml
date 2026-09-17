@@ -3,6 +3,3 @@ version: '1.0.0'
 config-version: 2
 profile: 'recon_dbt'
 model-paths: ["models"]
-models:
-  recon_dbt:
-    +materialized: table

