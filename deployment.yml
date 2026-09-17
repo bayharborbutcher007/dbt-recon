@@ -1,5 +1,0 @@
-jobs:
-  - name: recon_job
-    steps:
-      - name: run
-        command: dbt run

